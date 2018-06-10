@@ -1,0 +1,205 @@
+newmtl m0
+map_Kd tex\RUBY01.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m1
+map_Kd tex\RUBY03.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m2
+map_Kd tex\RUBY07.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m3
+map_Kd tex\RUBY07.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m4
+map_Kd tex\RUBY02.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m5
+map_Kd tex\RUBY05.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m6
+map_Kd tex\RUBY07.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m7
+map_Kd tex\RUBY01.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m8
+map_Kd tex\RUBY04.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m9
+map_Kd tex\RUBY05.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 0.99
+
+newmtl m10
+map_Kd tex\RUBY01.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m11
+map_Kd tex\RUBY06.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 0.99
+
+newmtl m12
+map_Kd tex\RUBY05.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m13
+map_Kd tex\RUBY05.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m14
+map_Kd tex\RUBY06.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m15
+map_Kd tex\RUBY04.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m16
+map_Kd tex\RUBY05.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m17
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m18
+Ka 0.8 0.266667 0.426667
+Kd 0.8 0.266667 0.426667
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m19
+map_Kd tex\RUBY04.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m20
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m21
+map_Kd tex\RUBY04.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m22
+map_Kd tex\RUBY05.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 0.99
+
+newmtl m23
+map_Kd tex\eyes.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m24
+map_Kd tex\eyes.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m25
+map_Kd tex\if.tga
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
